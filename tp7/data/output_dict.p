@@ -1,0 +1,14 @@
+(lp0
+S'<SOS>'
+p1
+aS'<EOS>'
+p2
+aS'<UNK>'
+p3
+aVsuis
+p4
+aVje
+p5
+aVla
+p6
+a.
